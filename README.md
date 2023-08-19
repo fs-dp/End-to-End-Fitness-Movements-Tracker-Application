@@ -1,3 +1,3 @@
-## Data Science Project Template
+## End-to-End Fitness Movements Tracker Application using Sensor Data
 
-You can use this template to structure your Python data science projects. It is based on [Cookie Cutter Data Science](https://drivendata.github.io/cookiecutter-data-science/).
+Medium article will be published soon..
